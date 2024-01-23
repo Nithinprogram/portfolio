@@ -1,0 +1,22 @@
+header{
+        text-align:center;
+        background-color: #0B4141;
+        color: #ffffff;
+        
+    }
+table,th,td{
+        border-color:black;
+        border: 1px;
+        color:#ffffff;
+    }
+    
+.container{
+
+margin-top:50px;
+margin-left: 50px;
+margin-right: 50px;
+font-size: medium;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
